@@ -1,0 +1,6 @@
+[IP]
+host =http://123.56.170.43:8088
+
+[login]
+username=libai
+password=opms123456
