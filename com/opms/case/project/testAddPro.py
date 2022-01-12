@@ -1,7 +1,4 @@
 import random
-from urllib import request
-
-import requests
 
 from com.opms.api.project import addProjectManager
 import allure
